@@ -6,7 +6,7 @@
     <img alt="GitHub" src="https://img.shields.io/github/license/Jamalianpour/mppm">
 </a>
 <a>
-    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/Jamalianpour/mppm/build">
+    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/Jamalianpour/mppm/Go">
 </a>
 <a>
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Jamalianpour/mppm">
